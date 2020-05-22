@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center">CRUDasdsadsad Simple</h1>
+      <h1 className="text-center">CRUD Simple</h1>
 
       <hr></hr>
       <div className="row">
